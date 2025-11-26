@@ -1,7 +1,5 @@
 #include "ft_printf.h"
 #include <stdio.h>
-#include "ft_printf.h"
-#include <limits.h>
 
 #define PINK "\033[35m"
 #define RESET "\x1b[0m"
